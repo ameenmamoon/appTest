@@ -1,0 +1,4 @@
+enum ApplicationState {
+  completed,
+  intro,
+}
